@@ -10,7 +10,7 @@ Before our Thursday lecture (17/3), please watch: [16.1](https://youtu.be/GTC_iL
 
 Grades for HW5 are available for review on Gradescope. The deadline to submit regrade requests is Wednesday, 16/3 at 11:59 PM.
 
-HW6 is out and due on Monday, March 14th at 11:59 PM (updated deadline). Paired submissions are allowed. Although you have a longer period of time for this homework, start soon because it is a summative homework and the longest so far. 
+HW7 is out and due on Monday, March 21st at 11:59 PM. Paired submissions are allowed. 
 
 
 
@@ -108,7 +108,7 @@ Lectures will be on Tuesday and Thursday from 12:30pm to 2:00pm.
 |  | **Part II: Unsupervised learning, transfer learning, different learning settings**  | | 
 | Mar 10 |   [Clustering](lectures/14_k-means-clustering.ipynb) |  📹 <li>Pre-watch: [14.1](https://youtu.be/caAuUAXwpb8),[14.2](https://youtu.be/s6AvSZ1_l7I),[14.3](https://youtu.be/M5ilrhcL0oY)</li>  | less depth |
 |        |  | **Week 9 datasets**: <li>[Jester 1.7M jokes ratings dataset](https://www.kaggle.com/vikashrajluhaniwal/jester-17m-jokes-ratings-dataset)</li> |
-| Mar 15 |   [Simple recommender systems](lectures/15_recommender-systems.ipynb) | | less depth ||
+| Mar 15 |   [Simple recommender systems](lectures/15_recommender-systems.ipynb) | <li> Post-lecture: [15.1](https://youtu.be/1ZwITQyWpkY), [15.2](https://youtu.be/T4NLsrUaRtg), [15.3](https://youtu.be/NM8lFKFZ2IU)</li> | less depth ||
 | Mar 17 |  [Text data, embeddings, topic modeling](lectures/16_natural-language-processing.ipynb)  | 📹 <li>Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY),[16.2](https://youtu.be/7W5Q8gzNPBc)</li>  |   new |
 | Mar 22 | [Neural networks and computer vision](lectures/17_intro_to_computer-vision.ipynb) | |   less depth |
 | Mar 24 | [Time series data](lectures/18_time-series.ipynb) | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
