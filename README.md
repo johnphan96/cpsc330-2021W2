@@ -1,17 +1,39 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 23/03/22)
+## Watch out for 👀 (last updated: 06/04/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-Time and place of the final have been released by UBC (see below under Deliverables). **The room is equipped with outlets for every seat,** so it is no longer necessary to fill the survey about this problem. A few people answered already and all of them said that they would need access to an outlet: I can confirm this will not be a problem. If you have other issues (e.g. you do not have a laptop at all), let me know through private post in Piazza.
+Grades for HW7 have been posted on Gradescope. Regrade requests can be submitted by April 13, 11:59PM.
 
-HW7 is out and due on Wednesday, March 23st at 11:59 PM **(new deadline)**. Paired submissions are allowed. 
+Thursday's lesson (our last one!) will be very practical. To fully benefit from it, I recommend you do the following before coming to class:
+- Create a Heroku account. Register [here](https://www.heroku.com/).
+- Install Heroku CLI. Download [here](https://devcenter.heroku.com/categories/command-line).
 
-HW8 is out and due on Friday, April 8th at 11:59 PM. Paired submissions are allowed. 
+Other python installations you will need:
+```
+pip install Flask
+pip install Flask-WTF
+pip install joblib
+```
 
-Grades for HW6 are available on GradeScope. Regrade requests may be submitted by March 30th, 11:59 PM.
+**A note on HW8, Q4.3:** For this part of the homework, you won't have to write a real blog post, you can use Jupyter and markdown cells, as long as you format text nicely, include figures etc. If you feel confident about your post and want to share it, you could consider https://medium.com/
 
+If you have trouble embedding images in your Jupyter file, please check this [Piazza post](https://piazza.com/class/ky0j51i4ud64t5?cid=279). And if you *still* have trouble, you can write your blog post as a Google doc file and add the link to your Jupyter notebook.
+
+## Please complete course evaluations
+
+I am sure you are very busy these days, but I need to ask you to find 10 minutes of your time and complete the course evaluations on Canvas: https://canvas.ubc.ca/courses/83420/external_tools/4732
+
+The current response rate is very low and if it stays like that I will not have access to the results! Since your input is very valuable, I would hate for that to be the case. This is my first semester teaching this course, and I would very much like to get some input to work with.
+
+Also rest assured that surveys are completely anonymous! The system only tracks who has completed the survey; there is no way to trace responses or comments unless a student self-identifies; additionally, **we only receive a summary report and only after all grades are submitted and finalized. There is no risk of repercussions to students for giving honest, critical feedback.**
+
+A final note: it may help to read this post from one of our coworkers before filling your survey.
+
+https://www.reddit.com/r/UBC/comments/k18qj7/teaching_evaluations_the_good_the_bad_and_the_ugly/
+
+I hope reading this will help you formulate constructive feedback that we can all benefit from.
 
 
 ## Midterm information
